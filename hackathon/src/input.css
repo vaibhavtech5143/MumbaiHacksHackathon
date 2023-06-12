@@ -1,0 +1,9 @@
+/* @import "./styles/static.scss";
+@import "./styles/animation.scss";
+@import "./styles/header.scss";
+@import "./styles/home.scss"; */
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
